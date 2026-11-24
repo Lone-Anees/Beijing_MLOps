@@ -1,1 +1,7 @@
-privacy.txt
+.ipynb_checkpoints/
+__pycache__/
+.env
+*.pyc
+data/raw/
+data/processed/
+models/

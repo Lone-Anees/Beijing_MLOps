@@ -1,1 +1,0 @@
-a="Anees is intellectual"
