@@ -16,4 +16,8 @@ Raw data is stored locally in data/raw/.
 Create and activate .venv, then install requirements.txt.
 ## Progress
 Practicals 01-05: work produced locally, if completed.
-Practical 06: Git version control.
+Practical 06: Git repository initialized and commits verified.
+
+## Reproducibility
+Git records code and documentation history.
+DVC will later track datasets and model artifacts.
